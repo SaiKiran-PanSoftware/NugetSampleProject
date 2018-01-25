@@ -3,21 +3,7 @@ Porting .Net Framework packages to Core and using using them via Nuget
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="Sai Munichetty">
-	<META NAME="CREATED" CONTENT="20180124;53200000000000">
-	<META NAME="CHANGEDBY" CONTENT="Sai Munichetty">
-	<META NAME="CHANGED" CONTENT="20180125;31400000000000">
-	<META NAME="AppVersion" CONTENT="15.0000">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	
+<HEAD>	
 </HEAD>
 <BODY LANG="en-US" LINK="#0000ff" DIR="LTR">
 <P STYLE="margin-bottom: 0.11in"><FONT FACE="Cambria, serif"><B>Nuget
