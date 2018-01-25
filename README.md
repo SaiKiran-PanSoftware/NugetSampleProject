@@ -5,7 +5,7 @@ Porting .Net Framework packages to Core and using using them via Nuget
 <HTML>
 <HEAD>
 	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
+	
 	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
 	<META NAME="AUTHOR" CONTENT="Sai Munichetty">
 	<META NAME="CREATED" CONTENT="20180124;53200000000000">
@@ -17,13 +17,7 @@ Porting .Net Framework packages to Core and using using them via Nuget
 	<META NAME="LinksUpToDate" CONTENT="false">
 	<META NAME="ScaleCrop" CONTENT="false">
 	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { size: 8.5in 11in; margin: 1in }
-		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
-		A:link { color: #0000ff; so-language: zxx }
-	-->
-	</STYLE>
+	
 </HEAD>
 <BODY LANG="en-US" LINK="#0000ff" DIR="LTR">
 <P STYLE="margin-bottom: 0.11in"><FONT FACE="Cambria, serif"><B>Nuget
