@@ -1,0 +1,8 @@
+C:\SampleProject 4\ProjectA\ProjectA\obj\Debug\netstandard2.0\ProjectA.csproj.CoreCompileInputs.cache
+C:\SampleProject 4\ProjectA\ProjectA\obj\Debug\netstandard2.0\ProjectA.AssemblyInfoInputs.cache
+C:\SampleProject 4\ProjectA\ProjectA\obj\Debug\netstandard2.0\ProjectA.AssemblyInfo.cs
+C:\SampleProject 4\ProjectA\ProjectA\bin\Debug\ProjectA.dll
+C:\SampleProject 4\ProjectA\ProjectA\bin\Debug\ProjectA.pdb
+C:\SampleProject 4\ProjectA\ProjectA\obj\Debug\netstandard2.0\ProjectA.dll
+C:\SampleProject 4\ProjectA\ProjectA\obj\Debug\netstandard2.0\ProjectA.pdb
+C:\SampleProject 4\ProjectA\ProjectA\bin\Debug\ProjectB.dll

@@ -1,0 +1,11 @@
+C:\SampleProject 4\TestProjectA\TestProjectA\bin\Debug\netcoreapp2.0\TestProjectA.deps.json
+C:\SampleProject 4\TestProjectA\TestProjectA\bin\Debug\netcoreapp2.0\TestProjectA.runtimeconfig.json
+C:\SampleProject 4\TestProjectA\TestProjectA\bin\Debug\netcoreapp2.0\TestProjectA.runtimeconfig.dev.json
+C:\SampleProject 4\TestProjectA\TestProjectA\bin\Debug\netcoreapp2.0\TestProjectA.dll
+C:\SampleProject 4\TestProjectA\TestProjectA\obj\Debug\netcoreapp2.0\TestProjectA.csprojResolveAssemblyReference.cache
+C:\SampleProject 4\TestProjectA\TestProjectA\obj\Debug\netcoreapp2.0\TestProjectA.csproj.CoreCompileInputs.cache
+C:\SampleProject 4\TestProjectA\TestProjectA\obj\Debug\netcoreapp2.0\TestProjectA.AssemblyInfoInputs.cache
+C:\SampleProject 4\TestProjectA\TestProjectA\obj\Debug\netcoreapp2.0\TestProjectA.AssemblyInfo.cs
+C:\SampleProject 4\TestProjectA\TestProjectA\bin\Debug\netcoreapp2.0\TestProjectA.pdb
+C:\SampleProject 4\TestProjectA\TestProjectA\obj\Debug\netcoreapp2.0\TestProjectA.dll
+C:\SampleProject 4\TestProjectA\TestProjectA\obj\Debug\netcoreapp2.0\TestProjectA.pdb

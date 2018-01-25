@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "4a7cc582aa9e1b6c6bc32bed44cb139075661b24"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "TestProjectA/1.0.0": {
+        "dependencies": {
+          "ProjectA": "2.0.0"
+        },
+        "runtime": {
+          "TestProjectA.dll": {}
+        }
+      },
+      "ProjectA/2.0.0": {
+        "dependencies": {
+          "ProjectB": "1.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/ProjectA.dll": {}
+        }
+      },
+      "ProjectB/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/ProjectB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestProjectA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectA/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D/AKZolKKNzv1341Bkp3MMRrT9z4s7g/7LMsp3yBYLqyOJNUd88ytwcAyl5QnYrJegGbyAFjvPbv0dokywpAbQ==",
+      "path": "projecta/2.0.0",
+      "hashPath": "projecta.2.0.0.nupkg.sha512"
+    },
+    "ProjectB/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZcxLtDlFoLodL+HSYPRfmonqqd2/mVEkPSpGq+hz3qF7WFV9KIQkG/d3cMCW4sh2euS1tHXuEUesGzPxIEkVSg==",
+      "path": "projectb/1.0.0",
+      "hashPath": "projectb.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\SampleProject 4\ProjectA\ProjectB\bin\Debug\ProjectB.dll
+C:\SampleProject 4\ProjectA\ProjectB\bin\Debug\ProjectB.pdb
+C:\SampleProject 4\ProjectA\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.csproj.CoreCompileInputs.cache
+C:\SampleProject 4\ProjectA\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.AssemblyInfoInputs.cache
+C:\SampleProject 4\ProjectA\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.AssemblyInfo.cs
+C:\SampleProject 4\ProjectA\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.dll
+C:\SampleProject 4\ProjectA\ProjectB\obj\Debug\netcoreapp2.0\ProjectB.pdb
