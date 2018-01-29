@@ -1,5 +1,5 @@
 # NugetSampleProject
-Porting .Net Framework packages to Core and using using them via Nuget
+Porting .Net Framework packages to .Net Core and using them via Nuget
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
@@ -312,7 +312,7 @@ A</B></FONT><FONT FACE="Cambria, serif"> project is dependent on
 So now let’s implement this through a sample project.</FONT></P>
 <P STYLE="margin-bottom: 0.11in"><BR><BR>
 </P>
-<P STYLE="margin-bottom: 0.11in"><IMG SRC="ImplementingNugetPackages_html_7225894a.gif"></P>
+<P STYLE="margin-bottom: 0.11in"><IMG style="float:left;width:142px;height:142px;" SRC="ImplementingNugetPackages_html_7225894a.gif"></P>
 <P STYLE="margin-bottom: 0.11in"><BR><BR>
 </P>
 <P STYLE="margin-bottom: 0.11in"><BR><BR>
